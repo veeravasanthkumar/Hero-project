@@ -1,0 +1,57 @@
+li{
+	float:left;
+	list-style-type:none;
+	text-decoration:none;
+	margin-right:0px;
+	font-family:Bahnschrift light;
+}
+
+li a{
+	text-decoration:none;
+	
+}
+
+#pp{
+	color:black;
+	text-align:center;
+}
+
+
+
+#ul7{
+	width:1500px;
+	margin-left:200px;
+	margin-top:150px;
+	position:fixed;
+}
+
+@media screen and (max-width:914px)
+{
+li{
+	float:left;
+	list-style-type:none;
+	text-decoration:none;
+	margin-right:30px;
+	font-family:Bahnschrift light;
+}
+
+li a{
+	text-decoration:none;
+	
+}
+
+#pp{
+	color:black;
+	
+}
+
+
+
+#ul7{
+	width:700px;
+	margin-left:120px;
+	margin-top:50px;
+	position:fixed;
+}
+	
+}
